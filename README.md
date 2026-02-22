@@ -9,6 +9,7 @@ Here is a collection of hands-on cybersecurity exercises and lab-based projects 
 
 ## 🔐 Projects
 🔒1: CUSTOM NETWORK SCANNER
+
 A Python-based network scanner that discovers live hosts, open ports, and running services on a network. More advanced than a simple ping sweep.
 ## Features
 
